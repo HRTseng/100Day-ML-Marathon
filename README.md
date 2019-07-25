@@ -72,3 +72,14 @@
 * D72：啟動函數
 * D73：梯度下降Gradient Descent
 * D74：Gradient Descent 數學原理
+* D75：BackPropagation
+* D76：優化器optimizers
+* D77：訓練神經網路的細節與技巧 - Validation and overfit
+* D78：訓練神經網路前的注意事項
+* D79：訓練神經網路的細節與技巧 - Learning rate effect
+* D80：[練習 Day] 優化器與學習率的組合與比較
+* D81：訓練神經網路的細節與技巧 - Regularization
+* D82：訓練神經網路的細節與技巧 - Dropout
+* D83：訓練神經網路的細節與技巧 - Batch normalization
+* D84：[練習 Day] 正規化/機移除/批次標準化的 組合與比較
+* D85：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
