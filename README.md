@@ -83,3 +83,18 @@
 * D83：訓練神經網路的細節與技巧 - Batch normalization
 * D84：[練習 Day] 正規化/機移除/批次標準化的 組合與比較
 * D85：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+* D86：訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+* D87：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+* D88：訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+* D89：訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+* D90：使用傳統電腦視覺與機器學習進行影像辨識
+* D91：[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識
+* D92：卷積神經網路 (Convolution Neural Network, CNN) 簡介
+* D93：卷積神經網路架構細節
+* D94：卷積神經網路 - 卷積(Convolution)層與參數調整
+* D95：卷積神經網路 - 池化(Pooling)層與參數調整
+* D96：Keras 中的 CNN layers
+* D97：使用 CNN 完成 CIFAR-10 資料集
+* D98：訓練卷積神經網路的細節與技巧 - 處理大量數據
+* D99：訓練卷積神經網路的細節與技巧 - 處理小量數據
+* D100：訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
